@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab1_v27", "Lab1_v27\Lab1_v27.pyproj", "{1DB18ACE-12C4-4357-B9A2-20892ECB3100}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab2_v1", "Lab2_v1\Lab2_v1.pyproj", "{551E2CAD-7669-4A75-B4A1-E603BE94311A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1DB18ACE-12C4-4357-B9A2-20892ECB3100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1DB18ACE-12C4-4357-B9A2-20892ECB3100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551E2CAD-7669-4A75-B4A1-E603BE94311A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551E2CAD-7669-4A75-B4A1-E603BE94311A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
