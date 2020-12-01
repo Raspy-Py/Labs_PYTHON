@@ -10,4 +10,4 @@ U = min_value(a, b)
 V = min_value(a * b, a + b)
 W = min_value(U + V ** 2, pi)
 
-print(U, V, W)
+print("U = ", U, "\nV = ", V, "\nW = ", W, sep='')
